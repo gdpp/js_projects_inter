@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" defer></script>
+    <script src="https://kit.fontawesome.com/00c3eecd35.js" crossorigin="anonymous"></script>
+    <title>Form Validations</title>
+</head>
+
+<body>
+    <main class="container">
+        <div class="form-container">
+            <header>Signup</header>
+            <form action="#" class="form">
+                <div class="field email-field">
+                    <div class="input-field">
+                        <input type="email" placeholder="Enter your email" class="email">
+                    </div>
+                    <span class="error email-error">
+                        <i class="fa-solid fa-circle-exclamation error-icon"></i>
+                        <p class="error-text">Please enter a valid email</p>
+                    </span>
+                </div>
+                <div class="field create-password">
+                    <div class="input-field">
+                        <input type="password" placeholder="Create password" class="password">
+                        <i class="fa-solid fa-eye-slash show-hide"></i>
+                    </div>
+                    <span class="error password-error">
+                        <i class="fa-solid fa-circle-exclamation error-icon"></i>
+                        <p class="error-text">Please enter at least 8 characters with number, symbol, lower and capital
+                            letters.</p>
+                    </span>
+                </div>
+                <div class="field confirm-password">
+                    <div class="input-field">
+                        <input type="password" placeholder="Confirm password" class="cPassword">
+                        <i class="fa-solid fa-eye-slash show-hide"></i>
+                    </div>
+                    <span class="error confirm-password-error">
+                        <i class="fa-solid fa-circle-exclamation error-icon"></i>
+                        <p class="error-text">Password don't match</p>
+                    </span>
+                </div>
+                <div class="input-field button">
+                    <input type="submit" value="Submit Now!" />
+                </div>
+            </form>
+        </div>
+    </main>
+</body>
+
+</html>

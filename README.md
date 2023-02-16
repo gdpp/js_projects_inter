@@ -18,18 +18,18 @@ Projects are divided into three tiers based on the knowledge of topics required 
 
 Here's the list of projects done, you can try the projects in this [Live Demo]() page.
 
-| Name         | Tier           |
-| ------------ | -------------- |
-| 1. 2048 Game | 2-Intermediate |
-| 2.           | 2-Intermediate |
-| 3.           | 2-Intermediate |
-| 4.           | 2-Intermediate |
-| 5.           | 2-Intermediate |
-| 6.           | 2-Intermediate |
-| 7.           | 2-Intermediate |
-| 8.           | 2-Intermediate |
-| 9.           | 2-Intermediate |
-| 10.          | 2-Intermediate |
+| Name                | Tier           |
+| ------------------- | -------------- |
+| 1. 2048 Game        | 2-Intermediate |
+| 2. Form Validations | 2-Intermediate |
+| 3.                  | 2-Intermediate |
+| 4.                  | 2-Intermediate |
+| 5.                  | 2-Intermediate |
+| 6.                  | 2-Intermediate |
+| 7.                  | 2-Intermediate |
+| 8.                  | 2-Intermediate |
+| 9.                  | 2-Intermediate |
+| 10.                 | 2-Intermediate |
 
 List of the used topics in these projects:
 
