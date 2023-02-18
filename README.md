@@ -22,7 +22,7 @@ Here's the list of projects done, you can try the projects in this [Live Demo]()
 | ------------------- | -------------- |
 | 1. 2048 Game        | 2-Intermediate |
 | 2. Form Validations | 2-Intermediate |
-| 3.                  | 2-Intermediate |
+| 3. Drawing App      | 2-Intermediate |
 | 4.                  | 2-Intermediate |
 | 5.                  | 2-Intermediate |
 | 6.                  | 2-Intermediate |
