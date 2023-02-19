@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #2a2b2a;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-container {
+    background-color: #f9f5ff;
+    margin: 1rem auto;
+    padding: 20px;
+    width: 300px;
+}
+
+button {
+    border: none;
+    background-color: #c20114;
+    color: #f9f5ff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.form-container input {
+    margin: 5px 0;
+    padding: 5px;
+    display: block;
+    width: 100%;
+}
+
+.form-container #btn-add {
+    background-color: #0075f2;
+    border: none;
+    color: #f9f5ff;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+#events-container {
+    background-color: #f9f5ff;
+    border-radius: 5px;
+    padding: 10px;
+    width: 500px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.event {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #cccccc;
+}
+
+.event .days {
+    width: 100px;
+    text-align: center;
+}
+
+.event .days .days-number {
+    font-size: 30px;
+    font-weight: bold;
+    display: block;
+}
+
+.event .event-name {
+    padding: 10px;
+    width: 200px;
+}
+
+.event .event-date {
+    padding: 10px;
+    width: 100px;
+}
+
+.event .actions {
+    padding: 10px;
+}

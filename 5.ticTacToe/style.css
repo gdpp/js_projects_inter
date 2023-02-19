@@ -1,0 +1,62 @@
+/* Import Press Start P2 font */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #d0f4ea;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    color: #0c0c0c;
+    width: 100%;
+    align-items: center;
+}
+
+.title h1 {
+    color: #1d1128;
+    text-align: center;
+    font-size: 42px;
+    width: 100%;
+    padding: 2rem;
+}
+
+#turn {
+    text-align: center;
+    font-size: 24px;
+    padding: 2rem;
+}
+
+#board {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    border: none;
+    border-radius: 5px;
+    font-size: 72px;
+    font-family: 'Press Start 2P', cursive;
+    height: 150px;
+    width: 150px;
+    background-color: #ffffff;
+    transition: all 0.2s ease-in-out;
+    margin: 0.2rem;
+    color: #1e2ede;
+}
+
+.cell:hover {
+    background-color: #e2e2e2;
+}
