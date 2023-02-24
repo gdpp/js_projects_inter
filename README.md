@@ -26,8 +26,6 @@ Here's the list of projects done, you can try the projects in this [Live Demo]()
 | 4. Countdown App    | 2-Intermediate |
 | 5. Tic Tac Toe      | 2-Intermediate |
 | 6. Shopping Cart    | 2-Intermediate |
-| 7.                  | 2-Intermediate |
-| 8.                  | 2-Intermediate |
 
 List of the used topics in these projects:
 
